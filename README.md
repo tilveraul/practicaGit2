@@ -5,7 +5,4 @@ Requisitos: Node.js y npm.
 Instalación: Ejecutar `npm install`.
 Uso: Ejecutar `npm start`.
 
-Editando archivo
-
-
-editando 3
+Uso: Ejecutar npm start
